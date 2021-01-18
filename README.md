@@ -6,6 +6,6 @@ Este trabalho foi realizado no âmbito da cadeira de Algoritmos e Estruturas de 
 Para o funcionamento desta Framework é necessário instalar, através do NuGet, o Newtonsoft.JSON. Esta libraria permite a serialização e desserialização de ficheiros JSON.
 
 Para utilizar esta Framework existem 2 opções:
-  1.) Criar um projeto novo, instalar o Newtonsoft.JSON e adicionar uma referência nas Dependencies à DLL fornecida.
+  1.) Criar um projeto novo, instalar o Newtonsoft.JSON e adicionar uma referência nas Dependencies à DLL fornecida, referenciando a mesma no programa.
   2.) Criar um projeto novo e adicionar as classes presentes no branch "Classes".
   
