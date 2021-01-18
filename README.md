@@ -7,5 +7,5 @@ Para o funcionamento desta Framework é necessário instalar, através do NuGet,
 
 Para utilizar esta Framework existem 2 opções:
   1.) Criar um projeto novo, instalar o Newtonsoft.JSON e adicionar uma referência nas Dependencies à DLL fornecida, referenciando a mesma no programa.
-  2.) Criar um projeto novo e adicionar as classes presentes no branch "Classes".
+  2.) Criar um projeto novo, instalar o Newtonsoft.JSON e adicionar as classes presentes no branch "Classes".
   
